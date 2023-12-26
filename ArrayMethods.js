@@ -8,7 +8,6 @@ console.log(data);
 data.push(5);
 console.log(data);
 
-
 data.push(8);
 console.log(data);
 
